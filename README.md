@@ -1,6 +1,6 @@
 # 2022 FIFA World Cup Data Analysis
 
-![cover](https://ese-edu.com/wp-content/uploads/2022/11/World-Cup-2022-Blog.jpg)
+![cover](https://digitalhub.fifa.com/transform/11efbf28-c08e-4a13-958f-78685fbb8a80/Qatar-2022-s-32-teams-graphic)
 
 ## Introduction
 
