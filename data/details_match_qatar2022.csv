@@ -1,0 +1,1749 @@
+﻿Match;Play fact;Nature;Player;Half;Time
+1;1;Offside Goal;Enner Valencia;1;3
+1;2;Yellow Card;Saad Al Sheeb;1;15
+1;3;Goal;Enner Valencia;1;16
+1;4;Yellow Card;Almoez Ali;1;22
+1;5;Yellow Card;Moisés Caicedo;1;29
+1;6;Goal;Enner Valencia;1;31
+1;6;Assist;Ángelo Preciado;1;31
+1;7;Yellow Card;Karim Boudiaf;1;36
+1;8;Yellow Card;Jhegson Méndez;2;56
+1;9;Substitute;Romario Ibarra;2;68
+1;9;Entrance; Jeremy Sarmiento;2;68
+1;10;Substitute;Almoez Ali;2;72
+1;10;Entrance;Mohammed Muntari;2;72
+1;11;Substitute;Hassan Al-Haydos;2;72
+1;11;Entrance;Mohammed Waad;2;72
+1;12;Substitute Injury;Enner Valencia;2;77
+1;12;Entrance;José Cifuentes;2;77
+1;13;Yellow Card;Akram Afif;2;78
+1;14;Substitute;Michael Estrada;2;90
+1;14;Entrance;Kevin Jauch;2;90
+1;15;Substitute;Moisés Caicedo;2;90
+1;15;Entrance;Alan Franco;2;90
+2;1;Substitute Injury;Alireza Beiranvand;1;20
+2;1;Entrance;Hossein Hosseini;1;20
+2;2;Yellow Card;Alireza Jahanbakhsh;1;25
+2;3;Goal;Jude Bellingham;1;35
+2;3;Assist;Luke Shaw;1;35
+2;4;Goal;Bukayo Saka;1;43
+2;4;Assist;Harry Maguire;1;43
+2;5;Goal;Raheem Sterling;1;46
+2;5;Assist;Harry Kane;1;46
+2;6;Substitute;Ali Karimi;2;46
+2;6;Entrance;Saeid Ezatolahi;2;46
+2;7;Substitute;Alireza Jahanbakhsh;2;46
+2;7;Entrance;Ali Gholizadeh;2;46
+2;8;Substitute;Roozbeh Cheshmi;2;46
+2;8;Entrance;Hossein Kanaanizadegan;2;46
+2;9;Yellow Card;Morteza Pouraliganji;2;48
+2;10;Goal;Bukayo Saka;2;62
+2;10;Assist;Raheem Sterling;2;62
+2;11;Substitute;Milad Mohammadi;2;63
+2;11;Entrance;Mehdi Torabi;2;63
+2;12;Goal;Mehdi Taremi;2;65
+2;12;Assist;Ali Gholizadeh;2;65
+2;13;Substitute Injury;Harry Maguire;2;70
+2;13;Entrance;Eric Dier;2;70
+2;14;Substitute;Bukayo Saka;2;70
+2;14;Entrance;Marcus Rashford;2;70
+2;15;Substitute;Raheem Sterling;2;70
+2;15;Entrance;Jack Grealish;2;70
+2;16;Substitute;Mason Mount;2;70
+2;16;Entrance;Phill Foden;2;70
+2;17;Goal;Marcus Rashford;2;71
+2;17;Assist;Harry Kane;2;71
+2;18;Substitute;Harry Kane;2;75
+2;18;Entrance;Callum Wilson;2;75
+2;19;Substitute;Ahmad Nourollahi;2;77
+2;19;Entrance;Sardar Azmoun;2;77
+2;20;Goal;Jack Grealish;2;90
+2;20;Assist;Callum Wilson;2;90
+2;21;Goal;Mehdi Taremi;2;103
+3;1;Yellow Card;Matthijs de Ligt;2;56
+3;2;Substitute;Vincent Janssen;2;62
+3;2;Entrance;Memphis Depay;2;62
+3;3;Substitute Injury;Abdou Diallo;2;62
+3;3;Entrance;Ismail Jakobs;2;62
+3;4;Substitute;Boulaye Dia;2;69
+3;4;Entrance;Bamba Dieng;2;69
+3;5;Substitute Injury;Cheikhou Kouyaté;2;73
+3;5;Entrance;Pape Gueye;2;73
+3;6;Substitute;Krepin Diatta;2;74
+3;6;Entrance;Nicolas Jackson;2;74
+3;7;Substitute;Steven Bergwijn;2;79
+3;7;Entrance;Davy Klaassen;2;79
+3;8;Substitute;Steven Berghuis;2;79
+3;8;Entrance;Teun Koopmeiners;2;79
+3;9;Goal;Cody Gakpo;2;84
+3;9;Assist;Frenkie de Jong;2;84
+3;10;Substitute;Cody Gakpo;2;94
+3;10;Entrance;Marten de Roon;2;94
+3;11;Yellow Card;Nampalys Mendy;2;94
+3;12;Yellow Card;Idrissa Gana Gueye;2;96
+3;13;Goal;Davy Klaassen;2;99
+4;1;Yellow Card;Sergiño Dest;1;11
+4;2;Yellow Card;Weston McKennie;1;13
+4;3;Goal;Timothy Weah;1;36
+4;3;Assist;Christian Pulisic;1;36
+4;4;Yellow Card;Gareth Bale;1;40
+4;5;Yellow Card;Chris Mepham;1;47
+4;6;Substitute;Daniel James;2;46
+4;6;Entrance;Kieffer Moore;2;46
+4;7;Yellow Card;Tim Ream;2;51
+4;8;Substitute;Weston McKennie;2;66
+4;8;Entrance;Brenden Aaronson;2;66
+4;9;Substitute;Sergiño Dest;2;74
+4;9;Entrance;DeAndre Yedlin;2;74
+4;10;Substitute;Yunus Musah;2;74
+4;10;Entrance;Kellyn Acosta;2;74
+4;11;Substitute;Josh Sargent;2;74
+4;11;Entrance;Haji Wright;2;74
+4;12;Substitute;Neco Williams;2;79
+4;12;Entrance;Brennan Johnson;2;79
+4;13;Goal;Gareth Bale;2;82
+4;14;Substitute;Timothy Weah;2;88
+4;14;Entrance;Jordan Morris;2;88
+4;15;Substitute Injury;Harry Wilson;2;93
+4;15;Entrance;Sorba Thomas;2;93
+4;16;Substitute;Ethan Ampadu;2;95
+4;16;Entrance;Joe Morrell;2;95
+4;17;Yellow Card;Kellyn Acosta;2;100
+5;1;Goal;Lionel Messi;1;10
+5;2;Offside Goal;Lautaro Martínez;1;29
+5;3;Substitute Injury;Salman Al-Faraj;1;49
+5;3;Entrance;Nawaf Al Abed;1;49
+5;4;Goal;Saleh Al-Shehri;2;48
+5;4;Assist;Firas Al-Buraikan;2;48
+5;5;Goal;Salem Al-Dawsari;2;53
+5;6;Substitute;Cristian Romero;2;59
+5;6;Entrance;Lisandro Martínez;2;59
+5;7;Substitute;Papu Gómez;2;59
+5;7;Entrance;Julián Álvarez;2;59
+5;8;Substitute;Leandro Paredes;2;59
+5;8;Entrance;Enzo Fernández;2;59
+5;9;Yellow Card;Abdulellah Al-Malki;2;67
+5;10;Substitute;Nicolás Tagliafico;2;71
+5;10;Entrance;Marcos Acuña;2;71
+5;11;Yellow Card;Ali Al-Bulaihi;2;75
+5;12;Substitute;Saleh Al-Shehri;2;78
+5;12;Entrance;Sultan Al-Ghanam;2;78
+5;13;Yellow Card;Salem Al-Dawsari;2;79
+5;14;Yellow Card;Saud Abdulhamid;2;82
+5;15;Yellow Card;Nawaf Al Abed;2;88
+5;16;Substitute;Nawaf Al Abed;2;89
+5;16;Entrance;Abdulelah Al-Amri;2;89
+5;17;Substitute Injury;Firas Al-Buraikan;2;89
+5;17;Entrance;Asiri Haitham;2;89
+5;18;Yellow Card;Mohammed Al-Owais;2;92
+5;19;Substitute Injury;Yasser Al-Shahrani;2;99
+5;19;Entrance;Mohammed Al-Breik;2;99
+6;1;Yellow Card;Rasmus Kristensen;1;24
+6;2;Substitute Injury;Thomas Delaney;1;46
+6;2;Entrance;Mikkel Damsgaard;1;46
+6;3;Substitute;Simon Kjær;2;65
+6;3;Entrance;Mathias Jensen;2;65
+6;4;Substitute;Kasper Dolberg;2;65
+6;4;Entrance;Andreas Cornelius;2;65
+6;5;Substitute;Andreas Skov Olsen;2;65
+6;5;Entrance;Jesper Lindstrøm;2;65
+6;6;Substitute;Anis Ben Slimane;2;67
+6;6;Entrance;Naïm Sliti;2;67
+6;7;Yellow Card;Mathias Jensen;2;78
+6;8;Substitute;Youssef Msakni;2;80
+6;8;Entrance;Hannibal Mejbri;2;80
+6;9;Substitute;Issam Jebali;2;80
+6;9;Entrance;Taha Yassine Khenissi;2;80
+6;10;Yellow Card;Taha Yassine Khenissi;2;86
+6;11;Substitute;Mohamed Dräger;2;88
+6;11;Entrance;Wajdi Kechrida;2;88
+6;12;Substitute;Aïssa Laïdouni;2;88
+6;12;Entrance;Ferjani Sassi;2;88
+7;1;Yellow Card;Jorge Eduardo Sánchez;1;29
+7;2;Substitute;Nicola Zalewski;2;46
+7;2;Entrance;Krystian Bielik;2;46
+7;3;Yellow Card;Héctor Moreno;2;56
+7;4;Missed Penalty;Robert Lewandowski;2;58
+7;5;Substitute;Héctor Herrera;2;71
+7;5;Entrance;Charly Rodríguez;2;71
+7;6;Substitute;Henry Martín;2;71
+7;6;Entrance;Raúl Jiménez;2;71
+7;7;Substitute;Sebastian Szymański;2;71
+7;7;Entrance;Przemysław Frankowski;2;71
+7;8;Yellow Card;Przemysław Frankowski;2;76
+7;9;Substitute;Alexis Vega;2;84
+7;9;Entrance;Uriel Antuna;2;84
+7;10;Substitute;Piotr Zieliński;2;87
+7;10;Entrance;Arkadiusz Milik;2;87
+8;1;Goal;Craig Goodwin;1;9
+8;1;Assist;Mathew Leckie;1;9
+8;2;Substitute Injury;Lucas Hernández;1;13
+8;2;Entrance;Theo Hernández;1;13
+8;3;Goal;Adrien Rabiot;1;27
+8;3;Assist;Theo Hernández;1;27
+8;4;Goal;Olivier Giroud;1;32
+8;4;Assist;Adrien Rabiot;1;32
+8;5;Yellow Card;Mitchell Duke;2;55
+8;6;Substitute;Mitchell Duke;2;56
+8;6;Entrance;Jason Cummings;2;56
+8;7;Goal;Kylian Mbappé;2;68
+8;7;Assist;Ousmane Dembélé;2;68
+8;8;Goal;Olivier Giroud;2;71
+8;8;Assist;Kylian Mbappé;2;71
+8;9;Substitute;Riley McGree;2;73
+8;9;Entrance;Awer Mabil;2;73
+8;10;Substitute;Craig Goodwin;2;74
+8;10;Entrance;Garang Kuol;2;74
+8;11;Substitute;Aurélien Tchouaméni;2;77
+8;11;Entrance;Youssouf Fofana;2;77
+8;12;Substitute;Ousmane Dembélé;2;77
+8;12;Entrance;Kingsley Coman;2;77
+8;13;Yellow Card;Jackson Irvine;2;80
+8;14;Substitute;Jackson Irvine;2;85
+8;14;Entrance;Keanu Baccus;2;85
+8;15;Substitute;Nathaniel Atkinson;2;85
+8;15;Entrance;Miloš Degenek;2;85
+8;16;Substitute;Benjamin Pavard;2;89
+8;16;Entrance;Jules Koundé;2;89
+8;17;Substitute;Olivier Giroud;2;89
+8;17;Entrance;Marcus Thuram;2;89
+8;18;Yellow Card;Aaron Mooy;2;95
+9;1;Substitute Injury;Nikola Vlašić;2;46
+9;1;Entrance;Mario Pašalić;2;46
+9;2;Substitute Injury;Noussair Mazraoui;2;60
+9;2;Entrance;Yahya Attiat Allah;2;60
+9;3;Substitute;Sofiane Boufal;2;65
+9;3;Entrance;Abdessamad Ezzalzouli;2;65
+9;4;Substitute;Andrej Kramarić;2;71
+9;4;Entrance;Marko Livaja;2;71
+9;5;Yellow Card;Sofyan Amrabat;2;78
+9;6;Substitute;Mateo Kovačić;2;79
+9;6;Entrance;Lovro Majer;2;79
+9;7;Substitute;Youssef En-Nesyri;2;81
+9;7;Entrance;Abderrazak Hamdallah;2;81
+9;8;Substitute;Azzedine Ounahi;2;81
+9;8;Entrance;Abdelhamid Sabiri;2;81
+9;9;Substitute;Ivan Perišić;2;90
+9;9;Entrance;Mislav Oršić;2;90
+10;1;Goal;İlkay Gündoğan;1;33
+10;2;Offside Goal;Kai Havertz;1;49
+10;3;Substitute;Takefusa Kubo;2;46
+10;3;Entrance;Takehiro Tomiyasu;2;46
+10;4;Substitute;Yuto Nagatomo;2;57
+10;4;Entrance;Kaoru Mitoma;2;57
+10;5;Substitute;Daizen Maeda;2;57
+10;5;Entrance;Takuma Asano;2;57
+10;6;Substitute;Thomas Müller;2;67
+10;6;Entrance;Jonas Hofmann;2;67
+10;7;Substitute;İlkay Gündoğan;2;67
+10;7;Entrance;Leon Goretzka;2;67
+10;8;Substitute;Ao Tanaka;2;71
+10;8;Entrance;Ritsu Doan;2;71
+10;9;Substitute;Hiroki Sakai;2;75
+10;9;Entrance;Takumi Minamino;2;75
+10;10;Goal;Ritsu Doan;2;75
+10;11;Substitute;Jamal Musiala;2;79
+10;11;Entrance;Mario Götze;2;79
+10;12;Substitute;Kai Havertz;2;79
+10;12;Entrance;Niclas Füllkrug;2;79
+10;13;Goal;Takuma Asano;2;83
+10;13;Assist;Ko Itakura;2;83
+10;14;Substitute;Serge Gnabry;2;90
+10;14;Entrance;Youssoufa Moukoko;2;90
+11;1;Goal;Dani Olmo;1;11
+11;2;Goal;Marco Asensio;1;21
+11;2;Assist;Jordi Alba;1;21
+11;3;Goal;Ferrán Torres;1;31
+11;4;Substitute;Carlos Martínez;2;46
+11;4;Entrance;Kendall Waston;2;46
+11;5;Goal;Ferrán Torres;2;54
+11;6;Substitute;Ferrán Torres;2;57
+11;6;Entrance;Álvaro Morata;2;57
+11;7;Substitute;Pedri;2;57
+11;7;Entrance;Carlos Soler;2;57
+11;8;Substitute;Anthony Contreras;2;61
+11;8;Entrance;Álvaro Zamora;2;61
+11;9;Substitute;Jewison Bennette;2;61
+11;9;Entrance;Bryan Ruiz;2;61
+11;10;Substitute;Jordi Alba;2;64
+11;10;Entrance;Alejandro Balde;2;64
+11;11;Substitute;Sergio Busquets;2;64
+11;11;Entrance;Koke;2;64
+11;12;Yellow Card;Francisco Calvo;2;68
+11;13;Substitute;Marco Asensio;2;69
+11;13;Entrance;Nico Williams;2;69
+11;14;Substitute;Celso Borges;2;72
+11;14;Entrance;Brandon Aguilera;2;72
+11;15;Goal;Gavi;2;74
+11;15;Assist;Álvaro Morata;2;74
+11;16;Substitute;Bryan Oviedo;2;82
+11;16;Entrance;Rónald Matarrita;2;82
+11;17;Goal;Carlos Soler;2;90
+11;18;Goal;Álvaro Morata;2;92
+11;18;Assist;Dani Olmo;2;92
+11;19;Yellow Card;Joel Campbell;2;97
+12;1;Yellow Card;Yannick Carrasco;1;9
+12;2;Missed Penalty;Alphonso Davies;1;11
+12;3;Goal;Michy Batshuayi;1;44
+12;3;Assist;Toby Alderweireld;1;44
+12;4;Substitute;Youri Tielemans;2;46
+12;4;Entrance;Amadou Onana;2;46
+12;5;Substitute;Yannick Carrasco;2;46
+12;5;Entrance;Thomas Meunier;2;46
+12;6;Yellow Card;Thomas Meunier;2;54
+12;7;Yellow Card;Amadou Onana;2;56
+12;8;Substitute;Junior Hoilett;2;58
+12;8;Entrance;Cyle Larin;2;58
+12;9;Substitute;Atiba Hutchinson;2;58
+12;9;Entrance;Ismaël Koné;2;58
+12;10;Substitute;Eden Hazard;2;62
+12;10;Entrance;Leandro Trossard;2;62
+12;11;Substitute;Richie Laryea;2;74
+12;11;Entrance;Sam Adekugbe;2;74
+12;12;Substitute;Michy Batshuayi;2;78
+12;12;Entrance;Loïs Openda;2;78
+12;13;Substitute;Tajon Buchanan;2;81
+12;13;Entrance;Liam Millar;2;81
+12;14;Substitute;Stephen Eustáquio;2;81
+12;14;Entrance;Jonathan Osorio;2;81
+12;15;Yellow Card;Alphonso Davies;2;81
+12;16;Yellow Card;Alistair Johnston;2;83
+13;1;Yellow Card;Collins Fai;1;36
+13;2;Goal;Breel Embolo;2;48
+13;2;Assist;Xherdan Shaqiri;2;48
+13;3;Yellow Card;Nico Elvedi;2;64
+13;4;Substitute;Martin Hongla;2;68
+13;4;Entrance;Gaël Ondoua;2;68
+13;5;Substitute;Djibril Sow;2;72
+13;5;Entrance;Fabian Frei;2;72
+13;6;Substitute;Xherdan Shaqiri;2;72
+13;6;Entrance;Noah Okafor;2;72
+13;7;Substitute;Breel Embolo;2;72
+13;7;Entrance;Haris Seferović;2;72
+13;8;Substitute;Eric Maxim Choupo-Moting;2;74
+13;8;Entrance;Vincent Aboubakar;2;74
+13;9;Substitute;Karl Toko Ekambi;2;74
+13;9;Entrance;Georges-Kévin N'Koudou;2;74
+13;10;Substitute;Ruben Vargas;2;81
+13;10;Entrance;Fabian Rieder;2;81
+13;11;Substitute;Bryan Mbeumo;2;81
+13;11;Entrance;Moumi Ngamaleu;2;81
+13;12;Yellow Card;Manuel Akanji;2;83
+13;13;Substitute;Ricardo Rodríguez;2;90
+13;13;Entrance;Eray Cömert;2;90
+14;1;Yellow Card;Martín Cáceres;2;57
+14;2;Substitute;Luis Suárez;2;64
+14;2;Entrance;Edinson Cavani;2;64
+14;3;Substitute;Hwang Ui-jo;2;74
+14;3;Entrance;Cho Guesung;2;74
+14;4;Substitute;Lee Jae-sung;2;74
+14;4;Entrance;Son Jun-ho;2;74
+14;5;Substitute;Na Sang-ho;2;74
+14;5;Entrance;Lee Kangin;2;74
+14;6;Substitute;Matías Vecino;2;79
+14;6;Entrance;Nicolás De La Cruz;2;79
+14;7;Substitute;Mathías Olivera;2;79
+14;7;Entrance;Matías Viña;2;79
+14;8;Substitute;Facundo Pellistri;2;88
+14;8;Entrance;Guillermo Varela;2;88
+14;9;Yellow Card;Cho Guesung;2;88
+14;10;Yellow Card (Outside);Paulo Bento;2;98
+15;1;Yellow Card;Kudus Mohammed;1;46
+15;2;Yellow Card;André Ayew;2;49
+15;3;Substitute Injury;Otávio;2;56
+15;3;Entrance;William Carvalho;2;56
+15;4;Yellow Card;Alidu Seidu;2;57
+15;5;Goal;Cristiano Ronaldo;2;65
+15;6;Substitute;Alidu Seidu;2;66
+15;6;Entrance;Tariq Lamptey;2;66
+15;7;Goal;André Ayew;2;73
+15;8;Substitute;Kudus Mohammed;2;77
+15;8;Entrance;Osman Bukari;2;77
+15;9;Substitute;André Ayew;2;77
+15;9;Entrance;Jordan Ayew;2;77
+15;10;Substitute;Rúben Neves;2;77
+15;10;Entrance;Rafael Leão;2;77
+15;11;Goal;João Félix;2;78
+15;11;Assist;Bruno Fernandes;2;78
+15;12;Goal;Rafael Leão;2;80
+15;12;Assist;Bruno Fernandes;2;80
+15;13;Substitute;Bernardo Silva;2;88
+15;13;Entrance;João Palhinha;2;88
+15;14;Substitute;Cristiano Ronaldo;2;88
+15;14;Entrance;Gonçalo Ramos;2;88
+15;15;Substitute;João Félix;2;88
+15;15;Entrance;João Mário;2;88
+15;16;Goal;Osman Bukari;2;89
+15;17;Yellow Card;Danilo Pereira;2;91
+15;18;Yellow Card;Iñaki Williams;2;91
+15;19;Substitute;Salis Abdul Samed;2;92
+15;19;Entrance;Daniel Kyereh;2;92
+15;20;Substitute;Alexander Djiku;2;92
+15;20;Entrance;Antoine Semenyo;2;92
+15;21;Yellow Card;Bruno Fernandes;2;95
+16;1;Yellow Card;Strahinja Pavlović;1;7
+16;2;Yellow Card;Nemanja Gudelj;2;49
+16;3;Substitute;Nemanja Gudelj;2;57
+16;3;Entrance;Ivan Ilić;2;57
+16;4;Substitute;Andrija Živković;2;57
+16;4;Entrance;Nemanja Radonjić;2;57
+16;5;Goal;Richarlison;2;62
+16;6;Yellow Card;Saša Lukić;2;64
+16;7;Substitute;Saša Lukić;2;66
+16;7;Entrance;Darko Lazović;2;66
+16;8;Substitute;Filip Mladenović;2;66
+16;8;Entrance;Dušan Vlahović;2;66
+16;9;Goal;Richarlison;2;73
+16;9;Assist;Vinicius Júnior;2;73
+16;10;Substitute;Lucas Paquetá;2;75
+16;10;Entrance;Fred;2;75
+16;11;Substitute;Vinicius Júnior;2;75
+16;11;Entrance;Rodrygo;2;75
+16;12;Substitute;Richarlison;2;79
+16;12;Entrance;Gabriel Jesus;2;79
+16;13;Substitute Injury;Neymar;2;79
+16;13;Entrance;Antony;2;79
+16;14;Substitute;Aleksandar Mitrović;2;83
+16;14;Entrance;Nemanja Maksimović;2;83
+16;15;Substitute;Raphinha;2;87
+16;15;Entrance;Martinelli;2;87
+17;1;Offside Goal;Ali Gholizadeh;1;16
+17;2;Yellow Card;Joe Rodon;1;48
+17;3;Substitute;Connor Roberts;2;57
+17;3;Entrance;Brennan Johnson;2;57
+17;4;Substitute;Harry Wilson;2;57
+17;4;Entrance;Daniel James;2;57
+17;5;Substitute;Sardar Azmoun;2;68
+17;5;Entrance;Karim Ansarifard;2;68
+17;6;Substitute;Ehsan Hajsafi;2;77
+17;6;Entrance;Mehdi Torabi;2;77
+17;7;Substitute;Ali Gholizadeh;2;77
+17;7;Entrance;Alizera Jahanbakhsh;2;77
+17;8;Substitute;Ethan Ampadu;2;77
+17;8;Entrance;Joe Allen;2;77
+17;9;Substitute;Ahmad Nourollahi;2;77
+17;9;Entrance;Roozbeh Cheshmi;2;77
+17;10;Substitute;Saeid Ezatolahi;2;83
+17;10;Entrance;Ali Karimi;2;83
+17;11;Red Card;Wayne Hennessey;2;86
+17;12;Substitute;Aaron Ramsey;2;87
+17;12;Entrance;Danny Ward;2;87
+17;13;Yellow Card;Ramin Rezaeian;2;95
+17;14;Yellow Card;Alizera Jahanbakhsh;2;95
+17;15;Goal;Roozbeh Cheshmi;2;98
+17;16;Goal;Ramin Rezaeian;2;101
+17;16;Assist;Mehdi Taremi;2;101
+18;1;Yellow Card;Ismail Mohamad;1;20
+18;2;Yellow Card;Boulaye Dia;1;30
+18;3;Goal;Boulaye Dia;1;41
+18;4;Yellow Card;Homam Elamin;1;47
+18;5;Goal;Famara Diedhiou;2;48
+18;5;Assist;Ismail Jakobs;2;48
+18;6;Yellow Card;Ismail Jakobs;2;52
+18;7;Substitute;Pathé Ciss;2;64
+18;7;Entrance;Krepin Diatta;2;64
+18;8;Substitute;Karim Boudiaf;2;69
+18;8;Entrance;Abdulaziz Hatem;2;69
+18;9;Substitute;Famara Diedhiou;2;74
+18;9;Entrance;Bamba Dieng;2;74
+18;10;Substitute;Hassan Al-Haydos;2;74
+18;10;Entrance;Mohammed Muntari;2;74
+18;11;Substitute;Ismaila Sarr;2;74
+18;11;Entrance;Iliman Ndiaye;2;74
+18;12;Substitute;Ismail Jakobs;2;78
+18;12;Entrance;Pepe Abou Cisse;2;78
+18;13;Substitute;Nampalys Mendy;2;78
+18;13;Entrance;Pape Matar Sarr;2;78
+18;14;Goal;Mohammed Muntari;2;78
+18;14;Assist;Ismail Mohamad;2;78
+18;15;Substitute;Homam Elamin;2;83
+18;15;Entrance;Mohammed Waad;2;83
+18;16;Substitute;Ró-Ró;2;83
+18;16;Entrance;Tarek Salman;2;83
+18;17;Goal;Bamba Dieng;2;84
+18;17;Assist;Iliman Ndiaye;2;84
+18;18;Yellow Card;Pathé Ciss;2;87
+18;19;Yellow Card;Assim Madibo;2;91
+19;1;Goal;Cody Gakpo;1;6
+19;1;Assist;Davy Klaassen;1;6
+19;2;Substitute;Steven Bergwijn;2;46
+19;2;Entrance;Memphis Depay;2;46
+19;3;Goal;Enner Valencia;2;49
+19;4;Yellow Card;Jhegson Méndez;2;57
+19;5;Substitute;Davy Klaassen;2;69
+19;5;Entrance;Steven Berghuis;2;69
+19;6;Substitute;Michael Estrada;2;74
+19;6;Entrance;Jeremy Sarmiento;2;74
+19;7;Substitute;Teun Koopmeiners;2;79
+19;7;Entrance;Marten de Roon;2;79
+19;8;Substitute;Cody Gakpo;2;79
+19;8;Entrance;Wout Weghorst;2;79
+19;9;Substitute Injury;Enner Valencia;2;90
+19;9;Entrance;Kevin Jauch;2;90
+19;10;Substitute;Romario Ibarra;2;90
+19;10;Entrance;Gonzalo Plata;2;90
+20;1;Substitute;Raheem Sterling;2;68
+20;1;Entrance;Jack Grealish;2;68
+20;2;Substitute;Jude Bellingham;2;69
+20;2;Entrance;Jordan Henderson;2;69
+20;3;Substitute;Weston McKennie;2;77
+20;3;Entrance;Brenden Aaronson;2;77
+20;4;Substitute;Sergiño Dest;2;78
+20;4;Entrance;Shaquell Moore;2;78
+20;5;Substitute;Bukayo Saka;2;78
+20;5;Entrance;Marcus Rashford;2;78
+20;6;Substitute;Timothy Weah;2;83
+20;6;Entrance;Gio Reyna;2;83
+20;7;Substitute;Haji Wright;2;83
+20;7;Entrance;Josh Sargent;2;83
+21;1;Goal;Mitchell Duke;1;23
+21;1;Assist;Craig Goodwin;1;23
+21;2;Yellow Card;Aïssa Laïdouni;1;26
+21;3;Substitute Injury;Mohamed Dräger;2;46
+21;3;Entrance;Ferjani Sassi;2;46
+21;4;Substitute;Riley McGree;2;64
+21;4;Entrance;Ajdin Hrustic;2;64
+21;5;Substitute;Mitchell Duke;2;64
+21;5;Entrance;Jamie Maclaren;2;64
+21;6;Yellow Card;Ali Abdi;2;65
+21;7;Substitute;Aïssa Laïdouni;2;67
+21;7;Entrance;Wahbi Khazri;2;67
+21;8;Substitute;Dylan Bronn;2;73
+21;8;Entrance;Wajdi Kechrida;2;73
+21;9;Substitute;Issam Jebali;2;73
+21;9;Entrance;Taha Yassine Khenissi;2;73
+21;10;Substitute;Fran Karačić;2;75
+21;10;Entrance;Miloš Degenek;2;75
+21;11;Substitute;Craig Goodwin;2;85
+21;11;Entrance;Awer Mabil;2;85
+21;12;Substitute;Mathew Leckie;2;85
+21;12;Entrance;Keanu Baccus;2;85
+21;13;Yellow Card;Ferjani Sassi;2;93
+22;1;Yellow Card;Jakub Kiwior;1;15
+22;2;Yellow Card;Matty Cash;1;16
+22;3;Yellow Card;Arkadiusz Milik;1;19
+22;4;Yellow Card;Abdulellah Al-Malki;1;20
+22;4;Goal;Piotr Zieliński;1;39
+22;4;Assist;Robert Lewandowski;1;39
+22;5;Missed Penalty;Salem Al-Dawsari;1;46
+22;6;Yellow Card;Abdulelah Al-Amri;1;49
+22;7;Substitute;Sami Al-Najei;2;46
+22;7;Entrance;Nawaf Al Abed;2;46
+22;8;Substitute;Piotr Zieliński;2;63
+22;8;Entrance;Jakub Kamiński;2;63
+22;9;Substitute;Mohammed Al-Breik;2;65
+22;9;Entrance;Sultan Al-Ghanam;2;65
+22;10;Substitute;Arkadiusz Milik;2;71
+22;10;Entrance;Krzysztof Piątek;2;71
+22;11;Goal;Robert Lewandowski;2;82
+22;12;Substitute;Abdulellah Al-Malki;2;85
+22;12;Entrance;Abdulrahman Al-Aboud;2;85
+22;13;Substitute;Salem Al-Dawsari;2;86
+22;13;Entrance;Nasser Al-Dawsari;2;86
+22;14;Substitute;Nawaf Al Abed;2;95
+22;14;Entrance;Hattan Bahebri;2;95
+23;1;Yellow Card;Andreas Christensen;1;20
+23;2;Yellow Card;Andreas Cornelius;1;23
+23;3;Yellow Card;Jules Koundé;1;43
+23;4;Substitute;Andreas Cornelius;2;46
+23;4;Entrance;Martin Braithwaite;2;46
+23;5;Goal;Kylian Mbappé;2;61
+23;5;Assist;Theo Hernández;2;61
+23;6;Substitute;Olivier Giroud;2;63
+23;6;Entrance;Marcus Thuram;2;63
+23;7;Goal;Andreas Christensen;2;68
+23;7;Assist;Joachim Andersen;2;68
+23;8;Substitute;Mikkel Damsgaard;2;73
+23;8;Entrance;Kasper Dolberg;2;73
+23;9;Substitute;Raphaël Varane;2;75
+23;9;Entrance;Ibrahima Konaté;2;75
+23;10;Substitute;Ousmane Dembélé;2;75
+23;10;Entrance;Kingsley Coman;2;75
+23;11;Substitute;Jesper Lindstrøm;2;85
+23;11;Entrance;Christian Nørgaard;2;85
+23;12;Goal;Kylian Mbappé;2;86
+23;12;Assist;Antoine Griezmann;2;86
+23;13;Substitute;Rasmus Nissen;2;92
+23;13;Entrance;Alexander Bah;2;92
+23;14;Substitute;Antoine Griezmann;2;93
+23;14;Entrance;Youssouf Fofana;2;93
+24;1;Yellow Card;Néstor Araujo;1;22
+24;2;Substitute Injury;Andrés Guardado;1;42
+24;2;Entrance;Erick Gutiérrez;1;42
+24;3;Yellow Card;Gonzalo Montiel;1;43
+24;4;Yellow Card;Erick Gutiérrez;2;50
+24;5;Substitute;Guido Rodríguez;2;57
+24;5;Entrance;Enzo Fernández;2;57
+24;6;Substitute;Lautaro Martínez;2;63
+24;6;Entrance;Julián Álvarez;2;63
+24;7;Substitute;Gonzalo Montiel;2;63
+24;7;Entrance;Nahuel Molina;2;63
+24;8;Goal;Lionel Messi;2;64
+24;8;Assist;Ángel Di María;2;64
+24;9;Substitute;Alexis Vega;2;66
+24;9;Entrance;Uriel Antuna;2;66
+24;10;Yellow Card;Héctor Herrera;2;66
+24;11;Substitute;Kevin Álvarez;2;66
+24;11;Entrance;Raúl Jiménez;2;66
+24;12;Substitute;Alexis Mac Allister;2;69
+24;12;Entrance;Exequiel Palacios;2;69
+24;13;Substitute;Ángel Di María;2;69
+24;13;Entrance;Cristian Romero;2;69
+24;14;Substitute;Hirving Lozano;2;73
+24;14;Entrance;Roberto Alvarado;2;73
+24;15;Goal;Enzo Fernández;2;87
+24;15;Assist;Lionel Messi;2;87
+24;16;Yellow Card;Roberto Alvarado;2;89
+25;1;Yellow Card;Anthony Contreras;1;41
+25;2;Yellow Card;Miki Yamane;1;44
+25;3;Substitute;Ayase Ueda;2;46
+25;3;Entrance;Takuma Asano;2;46
+25;4;Substitute;Yuto Nagatomo;2;46
+25;4;Entrance;Hiroki Ito;2;46
+25;5;Yellow Card;Celso Borges;2;62
+25;6;Substitute;Miki Yamane;2;62
+25;6;Entrance;Kaoru Mitoma;2;62
+25;7;Substitute;Anthony Contreras;2;65
+25;7;Entrance;Jewison Bennette;2;65
+25;8;Substitute;Gerson Torres;2;65
+25;8;Entrance;Brandon Aguilera;2;65
+25;9;Substitute;Ritsu Doan;2;67
+25;9;Entrance;Junya Ito;2;67
+25;10;Yellow Card;Francisco Calvo;2;70
+25;11;Goal;Yeltsin Tejeda;2;81
+25;11;Assist;Keysher Fuller;2;81
+25;12;Substitute;Yuki Soma;2;82
+25;12;Entrance;Takumi Minamino;2;82
+25;13;Yellow Card;Ko Itakura;2;84
+25;14;Substitute;Celso Borges;2;89
+25;14;Entrance;Youstin Salas;2;89
+25;15;Yellow Card;Wataru Endo;2;93
+25;16;Substitute;Joel Campbell;2;95
+25;16;Entrance;Daniel Chacón;2;95
+26;1;Yellow Card;Amadou Onana;1;28
+26;2;Substitute;Amadou Onana;2;60
+26;2;Entrance;Youri Tielemans;2;60
+26;3;Substitute;Eden Hazard;2;60
+26;3;Entrance;Dries Mertens;2;60
+26;4;Substitute;Selim Amallah;2;67
+26;4;Entrance;Abdelhamid Sabiri;2;67
+26;5;Substitute;Achraf Hakimi;2;68
+26;5;Entrance;Yahya Attiat Allah;2;68
+26;6;Goal;Abdelhamid Sabiri;2;73
+26;7;Substitute;Youssef En-Nesyri;2;73
+26;7;Entrance;Abderrazak Hamdallah;2;73
+26;8;Substitute;Sofiane Boufal;2;73
+26;8;Entrance;Zakaria Aboukhlal;2;73
+26;9;Substitute;Michy Batshuayi;2;75
+26;9;Entrance;Leandro Trossard;2;75
+26;10;Substitute;Thorgan Hazard;2;75
+26;10;Entrance;Charles De Ketelaere;2;75
+26;11;Substitute;Azzedine Ounahi;2;78
+26;11;Entrance;Jawad El Yamiq;2;78
+26;12;Substitute;Thomas Meunier;2;81
+26;12;Entrance;Romelu Lukaku;2;81
+26;13;Goal;Zakaria Aboukhal;2;92
+26;13;Assist;Hakim Ziyech;2;92
+26;14;Yellow Card;Abdelhamid Sabiri;2;95
+27;1;Goal;Alphonso Davies;1;2
+27;1;Assist;Tajon Buchanan;1;2
+27;2;Goal;Andrej Kramarić;1;36
+27;2;Assist;Ivan Perišić;1;36
+27;3;Goal;Marko Livaja;1;44
+27;3;Assist;Josip Juranović;1;44
+27;4;Substitute Injury;Stephen Eustáquio;2;46
+27;4;Entrance;Ismaël Koné;2;46
+27;5;Substitute;Cyle Larin;2;46
+27;5;Entrance;Jonathan Osorio;2;46
+27;6;Yellow Card;Tajon Buchanan;2;52
+27;6;Yellow Card;Dejan Lovren;2;56
+27;7;Substitute;Marko Livaja;2;60
+27;7;Entrance;Bruno Petković;2;60
+27;8;Substitute;Richie Laryea;2;62
+27;8;Entrance;Junior Hoilett;2;62
+27;9;Goal;Andrej Kramarić;2;70
+27;9;Assist;Ivan Perišić;2;70
+27;10;Substitute;Jonathan David;2;72
+27;10;Entrance;Lucas Cavallini;2;72
+27;11;Substitute;Atiba Hutchinson;2;72
+27;11;Entrance;Sam Adekugbe;2;72
+27;12;Substitute;Andrej Kramarić;2;73
+27;12;Entrance;Nikola Vlašić;2;73
+27;13;Yellow Card;Luka Modrić;2;85
+27;14;Yellow Card;Kamal Miller;2;85
+27;15;Substitute;Ivan Perišić;2;86
+27;15;Entrance;Mislav Oršić;2;86
+27;16;Substitute;Luka Modrić;2;86
+27;16;Entrance;Lovro Majer;2;86
+27;17;Substitute;Mateo Kovačić;2;86
+27;17;Entrance;Mario Pašalić;2;86
+27;18;Goal;Lovro Majer;2;94
+27;18;Assist;Mislav Oršić;2;94
+28;1;Yellow Card;Thilo Kehrer;1;37
+28;2;Yellow Card;Sergio Busquets;1;44
+28;3;Substitute;Ferrán Torres;2;54
+28;3;Entrance;Álvaro Morata;2;54
+28;5;Yellow Card;Leon Goretzka;2;58
+28;6;Yellow Card;Joshua Kimmich;2;60
+28;7;Goal;Álvaro Morata;2;62
+28;7;Assist;Jordi Alba;2;62
+28;8;Substitute;Marco Asensio;2;66
+28;8;Entrance;Koke;2;66
+28;9;Substitute;Gavi;2;66
+28;9;Entrance;Nico Williams;2;66
+28;10;Substitute;Thilo Kehrer;2;70
+28;10;Entrance;Lukas Klostermann;2;70
+28;11;Substitute;Thomas Müller;2;70
+28;11;Entrance;Niclas Füllkrug;2;70
+28;12;Substitute;İlkay Gündoğan;2;70
+28;12;Entrance;Leroy Sané;2;70
+28;13;Substitute;Jordi Alba;2;82
+28;13;Entrance;Alejandro Balde;2;82
+28;14;Goal;Niclas Füllkrug;2;83
+28;14;Assist;Jamal Musiala;2;83
+28;15;Substitute;Serge Gnabry;2;85
+28;15;Entrance;Jonas Hofmann;2;85
+28;16;Substitute;David Raum;2;87
+28;16;Entrance;Nico Schlotterbeck;2;87
+29;1;Yellow Card;Nicolas Nkoulou;1;24
+29;2;Goal;Jean-Charles Castelletto;1;29
+29;2;Assist;Nicolas Nkoulou;1;30
+29;3;Yellow Card;Christian Bassogog;1;30
+29;4;Goal;Strahinja Pavlović;1;46
+29;4;Assist;Dušan Tadić;1;46
+29;5;Goal;Sergej Milinković-Savić;1;48
+29;5;Assist;Andrija Živković;1;48
+29;6;Yellow Card;Luka Jović;1;49
+29;7;Goal;Aleksandar Mitrović;2;53
+29;7;Assist;Andrija Živković;2;53
+29;8;Substitute;Martin Hongla;2;55
+29;8;Entrance;Vincent Aboubakar;2;55
+29;9;Substitute Injury;Strahinja Pavlović;2;56
+29;9;Entrance;Stefan Mitrović;2;56
+29;10;Goal;Vincent Aboubakar;2;64
+29;10;Assist;Jean-Charles Castelletto;2;64
+29;11;Goal;Eric Maxim Choupo-Moting;2;66
+29;11;Assist;Vincent Aboubakar;2;66
+29;12;Substitute;Karl Toko Ekambi;2;67
+29;12;Entrance;Christian Bassogog;2;67
+29;13;Substitute;Pierre Kunde;2;67
+29;13;Entrance;Gaël Ondoua;2;67
+29;14;Substitute;Sergej Milinković-Savić;2;78
+29;14;Entrance;Marko Grujić;2;78
+29;15;Substitute;Andrija Živković;2;78
+29;15;Entrance;Nemanja Radonjić;2;78
+29;16;Substitute;Miloš Veljković;2;78
+29;16;Entrance;Srđan Babić;2;78
+29;17;Substitute;Bryan Mbeumo;2;81
+29;17;Entrance;Georges-Kévin N'Koudou;2;81
+29;18;Substitute;Andre-Frank Zambo Anguissa;2;81
+29;18;Entrance;Samuel Oum Gouet;2;81
+29;19;Substitute;Filip Kostić;2;92
+29;19;Entrance;Filip Đuričić;2;92
+29;20;Yellow Card;Nikola Milenković;2;93
+30;1;Yellow Card;Daniel Amartey;1;21
+30;2;Goal;Mohammed Salisu;1;24
+30;3;Yellow Card;Jung Woo-young;1;27
+30;4;Goal;Kudus Mohammed;1;34
+30;4;Assist;Jordan Ayew;1;34
+30;5;Substitute;Jeong Woo-yeong;2;46
+30;5;Entrance;Na Sang-ho;2;46
+30;6;Substitute;Kwon Chang-hoon;2;57
+30;6;Entrance;Lee Kangin;2;57
+30;7;Goal;Cho Guesung;2;58
+30;7;Assist;Lee Kangin;2;58
+30;8;Goal;Cho Guesung;2;61
+30;8;Assist;Kim Jin-su;2;61
+30;9;Goal;Kudus Mohammed;2;68
+30;9;Assist;Gideon Mensah;2;68
+30;10;Yellow Card;Tariq Lamptey;2;73
+30;10;Yellow Card;Kim Young-gwon;2;77
+30;11;Substitute;André Ayew;2;77
+30;11;Entrance;Daniel Kyereh;2;78
+30;12;Substitute;Tariq Lamptey;2;78
+30;12;Entrance;Denis Odoi;2;78
+30;13;Substitute;Jordan Ayew;2;78
+30;13;Entrance;Kamaldeen Sulemana;2;78
+30;14;Substitute;Jung Woo-young;2;78
+30;14;Entrance;Hwang Ui-jo;2;79
+30;15;Substitute;Kudus Mohammed;2;79
+30;15;Entrance;Alexander Djiku;2;83
+30;16;Substitute Injury;Gideon Mensah;2;83
+30;16;Entrance;Baba Rahman;2;88
+30;17;Substitute;Kim Min-jae;2;88
+30;17;Entrance;Kwon Kyung-won;2;92
+30;18;Red Card (Offside);Paulo Bento;2;101
+31;1;Substitute;Rodrygo;2;46
+31;1;Entrance;Lucas Paquetá;2;46
+31;2;Yellow Card;Fabian Rieder;2;50
+31;3;Yellow Card;Fred;2;52
+31;4;Substitute;Fred;2;58
+31;4;Entrance;Bruno Guimarães;2;58
+31;5;Substitute;Ruben Vargas;2;59
+31;5;Entrance;Edimilson Fernandes;2;59
+31;6;Substitute;Fabian Rieder;2;59
+31;6;Entrance;Renato Steffen;2;59
+31;7;Substitute;Raphinha;2;73
+31;7;Entrance;Antony;2;73
+31;8;Substitute;Richarlison;2;73
+31;8;Entrance;Gabriel Jesus;2;73
+31;9;Substitute;Djibril Sow;2;75
+31;9;Entrance;Michel Aebischer;2;75
+31;10;Substitute;Breel Embolo;2;76
+31;10;Entrance;Haris Seferović;2;76
+31;11;Goal;Casemiro;2;83
+31;11;Assist;Rodrygo;2;83
+31;12;Substitute;Silvan Widmer;2;86
+31;12;Entrance;Fabian Frei;2;86
+31;13;Substitute;Alex Sandro;2;86
+31;13;Entrance;Alex Telles;2;86
+32;1;Yellow Card;Rodrigo Bentancur;1;6
+32;2;Yellow Card;Rúben Neves;1;38
+32;3;Substitute Injury;Nuno Mendes;1;42
+32;3;Entrance;Raphaël Guerreiro;1;42
+32;4;Yellow Card;Mathías Olivera;1;44
+32;5;Goal;Bruno Fernandes;2;54
+32;5;Assist;Raphaël Guerreiro;2;54
+32;6;Substitute;Matías Vecino;2;62
+32;6;Entrance;Giorgian De Arrascaeta;2;62
+32;7;Substitute;Diego Godín;2;62
+32;7;Entrance;Facundo Pellistri;2;62
+32;8;Substitute Injury;Rúben Neves;2;69
+32;8;Entrance;Rafael Leão;2;69
+32;9;Substitute;Darwin Núñez;2;72
+32;9;Entrance;Maxi Gómez;2;72
+32;10;Substitute;Edinson Cavani;2;73
+32;10;Entrance;Luis Suárez;2;73
+32;11;Yellow Card;João Félix;2;77
+32;12;Substitute;João Félix;2;82
+32;12;Entrance;Matheus Nunes;2;82
+32;13;Substitute;Cristiano Ronaldo;2;82
+32;13;Entrance;Gonçalo Ramos;2;82
+32;14;Substitute;William Carvalho;2;82
+32;14;Entrance;João Palhinha;2;82
+32;15;Substitute;Mathías Olivera;2;86
+32;15;Entrance;Matías Viña;2;86
+32;16;Yellow Card;Rúben Dias;2;89
+32;17;Goal;Bruno Fernandes;2;93
+33;1;Goal;Cody Gakpo;1;26
+33;1;Assist;Davy Klaassen;1;26
+33;2;Goal;Frenkie de Jong;2;49
+33;3;Yellow Card;Nathan Aké;2;52
+33;4;Substitute;Assim Madibo;2;64
+33;4;Entrance;Karim Boudiaf;2;64
+33;5;Substitute;Almoez Ali;2;64
+33;5;Entrance;Mohammed Muntari;2;64
+33;6;Substitute;Hassan Al-Haydos;2;64
+33;6;Entrance;Ali Assadalla;2;64
+33;7;Substitute;Memphis Depay;2;66
+33;7;Entrance;Vincent Janssen;2;66
+33;8;Substitute;Davy Klaassen;2;66
+33;8;Entrance;Steven Berghuis;2;66
+33;9;Substitute;Cody Gakpo;2;82
+33;9;Entrance;Wout Weghorst;2;82
+33;10;Substitute;Marten de Roon;2;82
+33;10;Entrance;Teun Koopmeiners;2;82
+33;11;Substitute;Abdulaziz Hatem;2;85
+33;11;Entrance;Ahmed Alaaeldin;2;85
+33;12;Substitute;Ismail Mohamad;2;85
+33;12;Entrance;Musab Kheder;2;85
+33;13;Substitute;Frenkie de Jong;2;86
+33;13;Entrance;Kenneth Taylor;2;86
+34;1;Goal;Ismaila Sarr;1;44
+34;2;Substitute;Alan Franco;2;46
+34;2;Entrance;Jeremy Sarmiento;2;46
+34;3;Substitute;Carlos Gruezo;2;46
+34;3;Entrance;José Cifuentes;2;46
+34;4;Substitute;Michael Estrada;2;64
+34;4;Entrance;Djorkaeff Reasco;2;64
+34;5;Yellow Card;Idrissa Gana Gueye;2;66
+34;6;Goal;Félix Torres Caicedo;2;67
+34;6;Assist;Moisés Caicedo;2;67
+34;7;Goal;Kalidou Koulibaly;2;70
+34;8;Substitute;Pathé Ciss;2;75
+34;8;Entrance;Nampalys Mendy;2;75
+34;9;Substitute;Iliman Ndiaye;2;75
+34;9;Entrance;Bamba Dieng;2;75
+34;10;Substitute;Ángelo Preciado;2;85
+34;10;Entrance;Jackson Porozo;2;85
+34;11;Substitute;Boulaye Dia;2;95
+34;11;Entrance;Pape Abou Cissé;2;95
+35;1;Yellow Card;Daniel James;1;29
+35;1;Substitute Injury;Neco Williams;1;37
+35;2;Entrance;Connor Roberts;1;37
+35;3;Substitute;Gareth Bale;2;46
+35;3;Entrance;Brennan Johnson;2;46
+35;4;Goal;Marcus Rashford;2;50
+35;5;Goal;Phil Foden;2;52
+35;5;Assist;Harry Kane;2;52
+35;6;Substitute;Kyle Walker;2;57
+35;6;Entrance;Trent Alexander-Arnold;2;57
+35;7;Substitute;Declan Rice;2;58
+35;7;Entrance;Kalvin Phillips;2;58
+35;8;Substitute;Harry Kane;2;58
+35;8;Entrance;Callum Wilson;2;58
+35;9;Substitute Injury;Ben Davies;2;59
+35;9;Entrance;Joe Morell;2;59
+35;10;Yellow Card;Aaron Ramsey;2;61
+35;11;Substitute;Luke Shaw;2;65
+35;11;Entrance;Kieran Trippier;2;65
+35;12;Goal;Marcus Rashford;2;68
+35;12;Assist;Kalvin Phillips;2;68
+35;13;Substitute;Marcus Rashford;2;75
+35;13;Entrance;Jack Grealish;2;75
+35;14;Substitute;Daniel James;2;77
+35;14;Entrance;Harry Wilson;2;77
+35;15;Substitute Injury;Joe Allen;2;81
+35;15;Entrance;Rubin Colwill;2;81
+36;1;Goal;Christian Pulisic;1;38
+36;1;Assist;Sergiño Dest;1;38
+36;2;Yellow Card;Tyler Adams;1;43
+36;3;Substitute Injury;Milad Mohammadi;1;47
+36;3;Entrance;Ali Karimi;1;47
+36;4;Substitute;Sardar Azmoun;2;46
+36;4;Entrance;Saman Ghoddos;2;46
+36;5;Substitute Injury;Christian Pulisic;2;46
+36;5;Entrance;Brenden Aaronson;2;46
+36;6;Substitute;Weston McKennie;2;65
+36;6;Entrance;Kellyn Acosta;2;65
+36;7;Substitute;Ahmad Nourollahi;2;71
+36;7;Entrance;Mehdi Torabi;2;71
+36;8;Substitute;Ehsan Hajsafi;2;72
+36;8;Entrance;Abolfazl Jalali;2;72
+36;9;Yellow Card;Majid Hosseini;2;77
+36;10;Substitute Injury;Josh Sargent;2;77
+36;10;Entrance;Haji Wright;2;77
+36;11;Substitute;Ali Gholizadeh;2;79
+36;11;Entrance;Karim Ansarifard;2;79
+36;12;Substitute;Sergiño Dest;2;82
+36;12;Entrance;Shaquell Moore;2;82
+36;13;Substitute;Timothy Weah;2;82
+36;13;Entrance;Walker Zimmerman;2;82
+36;14;Yellow Card;Hossein Kanaanizadegan;2;83
+36;15;Yellow Card;Abolfazl Jalali;2;96
+37;1;Yellow Card;Wajdi Kechrida;1;28
+37;2;Goal;Wahbi Khazri;2;58
+37;2;Assist;Aïssa Laïdouni;2;58
+37;3;Substitute Injury;Wahbi Khazri;2;60
+37;3;Entrance;Issam Jebali;2;60
+37;4;Substitute;Raphaël Varane;2;63
+37;4;Entrance;William Saliba;2;63
+37;5;Substitute;Kingsley Coman;2;63
+37;5;Entrance;Kylian Mbappé;2;63
+37;6;Substitute;Jordan Veretout;2;63
+37;6;Entrance;Adrien Rabiot;2;63
+37;7;Substitute;Youssouf Fofana;2;73
+37;7;Entrance;Antoine Griezmann;2;73
+37;8;Substitute;Mohamed Ali Ben Romdhane;2;74
+37;8;Entrance;Ghaylène Chaalali;2;74
+37;9;Substitute;Mattéo Guendouzi;2;79
+37;9;Entrance;Ousmane Dembélé;2;79
+37;10;Substitute;Anis Ben Slimane;2;83
+37;10;Entrance;Ali Abdi;2;83
+38;1;Yellow Card;Aziz Behich;1;4
+38;2;Substitute;Craig Goodwin;2;46
+38;2;Entrance;Keanu Baccus;2;46
+38;3;Substitute;Rasmus Nissen;2;46
+38;3;Entrance;Alexander Bah;2;46
+38;4;Yellow Card;Miloš Degenek;2;57
+38;5;Substitute;Martin Braithwaite;2;59
+38;5;Entrance;Kasper Dolberg;2;59
+38;6;Substitute;Mathias Jensen;2;59
+38;6;Entrance;Mikkel Damsgaard;2;59
+38;7;Goal;Mathew Leckie;2;60
+38;7;Assist;Riley McGree;2;60
+38;8;Substitute;Andreas Skov Olsen;2;69
+38;8;Entrance;Robert Skov;2;69
+38;9;Substitute;Joakim Mæhle;2;70
+38;9;Entrance;Andreas Cornelius;2;70
+38;10;Substitute;Riley McGree;2;74
+38;10;Entrance;Bailey Wright;2;74
+38;11;Yellow Card;Robert Skov;2;75
+38;12;Substitute;Mitchell Duke;2;82
+38;12;Entrance;Jamie Maclaren;2;82
+38;13;Substitute;Mathew Leckie;2;89
+38;13;Entrance;Ajdin Hrustic;2;89
+39;1;Yellow Card;Edson Álvarez;1;16
+39;2;Yellow Card;Saleh Al-Shehri;1;28
+39;3;Yellow Card;Ali Al Hassan;1;34
+39;4;Substitute Injury;Ali Al-Bulaihi;1;37
+39;4;Entrance;Riyadh Sharahili;1;37
+39;5;Substitute;Ali Al Hassan;2;46
+39;5;Entrance;Abdullah Madu;2;46
+39;6;Substitute;Alexis Vega;2;46
+39;6;Entrance;Uriel Antuna;2;46
+39;7;Goal;Henry Martín;2;47
+39;7;Assist;César Montes;2;47
+39;8;Yellow Card;Hassan Al Tambakti;2;52
+39;9;Goal;Luis Chávez;2;52
+39;10;Substitute;Saleh Al-Shehri;2;62
+39;10;Entrance;Abdulrahman Al-Aboud;2;62
+39;11;Substitute;Henry Martín;2;77
+39;11;Entrance;Raúl Jiménez;2;77
+39;12;Substitute;Orbelín Pineda;2;77
+39;12;Entrance;Charly Rodríguez;2;77
+39;13;Yellow Card;Abdullah Madu;2;81
+39;14;Substitute;Jorge Eduardo Sánchez;2;86
+39;14;Entrance;Kevin Álvarez;2;86
+39;15;Substitute;Edson Álvarez;2;86
+39;15;Entrance;Rogelio Funes Mori;2;86
+39;16;Substitute;Sultan Al-Ghanam;2;88
+39;16;Entrance;Hattan Bahebri;2;88
+39;17;Yellow Card;Abdulelah Al-Amri;2;91
+39;18;Goal;Salem Al-Dawsari;2;95
+39;18;Assist;Hattan Bahebri;2;95
+39;19;Yellow Card;Hattan Bahebri;2;97
+40;1;Missed Penalty;Lionel Messi;1;39
+40;2;Substitute;Przemysław Frankowski;2;46
+40;2;Entrance;Jakub Kamiński;2;46
+40;3;Substitute;Karol Świderski;2;46
+40;3;Entrance;Michał Skóraś;2;46
+40;4;Goal;Alexis Mac Allister;2;46
+40;4;Assist;Nahuel Molina;2;46
+40;5;Yellow Card;Marcos Acuña;2;49
+40;6;Substitute;Ángel Di María;2;59
+40;6;Entrance;Leandro Paredes;2;59
+40;7;Substitute;Marcos Acuña;2;59
+40;7;Entrance;Nicolás Tagliafico;2;59
+40;8;Substitute;Krystian Bielik;2;62
+40;8;Entrance;Damian Szymański;2;62
+40;9;Goal;Julián Álvarez;2;67
+40;9;Assist;Enzo Fernández;2;67
+40;10;Substitute;Bartosz Bereszyński;2;72
+40;10;Entrance;Artur Jędrzejczyk;2;72
+40;11;Yellow Card;Grzegorz Krychowiak;2;78
+40;12;Substitute;Enzo Fernández;2;79
+40;12;Entrance;Germán Pezzella;2;79
+40;13;Substitute;Julián Álvarez;2;79
+40;13;Entrance;Lautaro Martínez;2;79
+40;14;Substitute;Grzegorz Krychowiak;2;83
+40;14;Entrance;Krzysztof Piątek;2;83
+40;15;Substitute;Alexis Mac Allister;2;84
+40;15;Entrance;Thiago Almada;2;84
+41;1;Goal;Hakim Ziyech;1;4
+41;2;Yellow Card;Junior Hoilett;1;7
+41;3;Goal;Youssef En-Nesyri;1;23
+41;3;Assist;Achraf Hakimi;1;23
+41;4;Yellow Card;Jonathan Osorio;1;26
+41;5;Own Goal;Nayef Aguerd;1;40
+41;6;Yellow Card;Sam Adekugbe;1;47
+41;7;Substitute;Mark-Anthony Kaye;2;60
+41;7;Entrance;Atiba Hutchinson;2;60
+41;8;Substitute;Sam Adekugbe;2;60
+41;8;Entrance;Ismaël Koné;2;60
+41;9;Substitute;Cyle Larin;2;60
+41;9;Entrance;Jonathan David;2;60
+41;10;Substitute;Jonathan Osorio;2;65
+41;10;Entrance;Richie Laryea;2;65
+41;11;Substitute;Abdelhamid Sabiri;2;65
+41;11;Entrance;Selim Amallah;2;65
+41;12;Substitute;Sofiane Boufal;2;65
+41;12;Entrance;Zakaria Aboukhal;2;65
+41;13;Substitute;Hakim Ziyech;2;76
+41;13;Entrance;Abderrazak Hamdallah;2;76
+41;14;Substitute;Junior Hoilett;2;76
+41;14;Entrance;David Wotherspoon;2;76
+41;15;Substitute;Azzedine Ounahi;2;77
+41;15;Entrance;Jawad El Yamiq;2;77
+41;16;Yellow Card;Steven Vitória;2;84
+41;17;Substitute;Achraf Hakimi;2;85
+41;17;Entrance;Yahya Jabrane;2;85
+42;1;Substitute;Dries Mertens;2;46
+42;1;Entrance;Romelu Lukaku;2;46
+42;2;Substitute;Leandro Trossard;2;59
+42;2;Entrance;Thorgan Hazard;2;59
+42;3;Substitute;Marko Livaja;2;64
+42;3;Entrance;Bruno Petković;2;64
+42;4;Substitute;Andrej Kramarić;2;64
+42;4;Entrance;Mario Pašalić;2;64
+42;5;Yellow Card;Leander Dendoncker;2;67
+42;6;Substitute;Leander Dendoncker;2;72
+42;6;Entrance;Youri Tielemans;2;72
+42;7;Substitute;Yannick Carrasco;2;72
+42;7;Entrance;Jeremy Doku;2;72
+42;8;Substitute;Thomas Meunier;2;87
+42;8;Entrance;Eden Hazard;2;87
+42;9;Substitute;Mateo Kovačić;2;92
+42;9;Entrance;Lovro Majer;2;92
+43;1;Goal;Álvaro Morata;1;12
+43;1;Assist;César Azpilicueta;1;12
+43;2;Yellow Card;Ko Itakura;1;39
+43;3;Yellow Card;Shogo Taniguchi;1;44
+43;4;Yellow Card;Maya Yoshida;1;45
+43;5;Substitute;César Azpilicueta;2;46
+43;5;Entrance;Dani Carvajal;2;46
+43;6;Substitute;Takefusa Kubo;2;46
+43;6;Entrance;Ritsu Doan;2;46
+43;7;Substitute;Yuto Nagatomo;2;46
+43;7;Entrance;Kaoru Mitoma;2;46
+43;8;Goal;Ritsu Doan;2;48
+43;8;Assist;Junya Ito;2;48
+43;9;Goal;Ao Tanaka;2;51
+43;9;Assist;Kaoru Mitoma;2;51
+43;10;Substitute;Nico Williams;2;57
+43;10;Entrance;Ferrán Torres;2;57
+43;11;Substitute;Álvaro Morata;2;57
+43;11;Entrance;Marco Asensio;2;57
+43;12;Substitute;Daizen Maeda;2;62
+43;12;Entrance;Takuma Asano;2;62
+43;13;Substitute;Gavi;2;68
+43;13;Entrance;Ansu Fati;2;68
+43;14;Substitute;Alejandro Balde;2;68
+43;14;Entrance;Jordi Alba;2;68
+43;15;Substitute;Daichi Kamada;2;69
+43;15;Entrance;Takehiro Tomiyasu;2;69
+43;16;Substitute;Ao Tanaka;2;87
+43;16;Entrance;Wataru Endo;2;87
+44;1;Goal;Serge Gnabry;1;10
+44;1;Assist;David Raum;1;10
+44;2;Substitute;Brandon Aguilera;2;46
+44;2;Entrance;Youstin Salas;2;46
+44;3;Substitute;Leon Goretzka;2;46
+44;3;Entrance;Lukas Klostermann;2;46
+44;4;Substitute;İlkay Gündoğan;2;55
+44;4;Entrance;Niclas Füllkrug;2;55
+44;5;Goal;Yeltsin Tejeda;2;58
+44;6;Substitute;David Raum;2;67
+44;6;Entrance;Mario Götze;2;67
+44;7;Substitute;Thomas Müller;2;67
+44;7;Entrance;Kai Havertz;2;67
+44;8;Own Goal;Manuel Neuer;2;70
+44;9;Goal;Kai Havertz;2;73
+44;9;Assist;Niclas Füllkrug;2;73
+44;10;Substitute;Johan Venegas;2;74
+44;10;Entrance;Rónald Matarrita;2;74
+44;11;Substitute;Keysher Fuller;2;74
+44;11;Entrance;Jewison Bennette;2;74
+44;12;Yellow Card;Óscar Duarte;2;77
+44;13;Goal;Kai Havertz;2;85
+44;13;Assist;Serge Gnabry;2;85
+44;14;Goal;Niclas Füllkrug;2;90
+44;14;Assist;Leroy Sané;2;90
+44;15;Substitute;Yeltsin Tejeda;2;93
+44;15;Entrance;Roan Wilson;2;93
+44;16;Substitute;Bryan Oviedo;2;93
+44;16;Entrance;Anthony Contreras;2;93
+44;17;Substitute;Niklas Süle;2;93
+44;17;Entrance;Matthias Ginter;2;93
+45;1;Goal;Ricardo Horta;1;5
+45;1;Assist;Diogo Dalot;1;5
+45;2;Goal;Kim Young-gwon;1;27
+45;3;Yellow Card;Lee Kangin;1;36
+45;4;Substitute;Matheus Nunes;2;65
+45;4;Entrance;João Palhinha;2;65
+45;5;Substitute;Rúben Neves;2;65
+45;5;Entrance;Rafael Leão;2;65
+45;6;Substitute;Cristiano Ronaldo;2;65
+45;6;Entrance;André Silva;2;65
+45;7;Substitute;Lee Jae-sung;2;66
+45;7;Entrance;Hwang Hee-chan;2;66
+45;8;Substitute Injury;Kim Young-gwon;2;81
+45;8;Entrance;Son Jun-ho;2;81
+45;9;Substitute;Lee Kangin;2;81
+45;9;Entrance;Hwang Ui-jo;2;81
+45;10;Substitute;João Mário;2;82
+45;10;Entrance;Bernardo Silva;2;82
+45;11;Substitute;Vitinha;2;82
+45;11;Entrance;William Carvalho;2;82
+45;12;Goal;Hwang Hee-chan;2;91
+45;12;Assist;Son Heung-min;2;91
+45;13;Yellow Card;Hwang Hee-chan;2;92
+45;14;Substitute;Cho Guesung;2;93
+45;14;Entrance;Cho Yumin;2;93
+46;1;Yellow Card;Darwin Núñez;1;19
+46;2;Missed Penalty;André Ayew;1;21
+46;3;Goal;Giorgian De Arrascaeta;1;26
+46;4;Goal;Giorgian De Arrascaeta;1;32
+46;4;Assist;Luis Suárez;1;32
+46;5;Substitute Injury;Rodrigo Bentancur;1;34
+46;5;Entrance;Matías Vecino;1;34
+46;6;Substitute;Jordan Ayew;2;46
+46;6;Entrance;Kamaldeen Sulemana;2;46
+46;7;Substitute;André Ayew;2;46
+46;7;Entrance;Osman Bukari;2;46
+46;8;Yellow Card;Luis Suárez;2;60
+46;9;Substitute;Luis Suárez;2;60
+46;9;Entrance;Edinson Cavani;2;66
+46;10;Substitute;Facundo Pellistri;2;66
+46;10;Entrance;Nicolás De La Cruz;2;66
+46;11;Substitute;Daniel Amartey;2;66
+46;11;Entrance;Antoine Semenyo;2;72
+46;12;Substitute;Salis Abdul Samed;2;72
+46;12;Entrance;Daniel Kyereh;2;72
+46;13;Substitute;Darwin Núñez;2;72
+46;13;Entrance;Maxi Gómez;2;80
+46;14;Substitute;Giorgian De Arrascaeta;2;80
+46;14;Entrance;Agustín Canobbio;2;80
+46;15;Yellow Card;Kamaldeen Sulemana;2;80
+46;16;Yellow Card;Sebastián Coates;2;86
+46;17;Substitute;Kudus Mohammed;2;87
+46;17;Entrance;Abdul Fatawu Issahaku;2;98
+46;18;Yellow Card;Alidu Seidu;2;98
+46;19;Yellow Card;Edinson Cavani;2;99
+46;20;Yellow Card;José María Giménez;2;100
+47;1;Yellow Card;Silvan Widmer;1;15
+47;2;Goal;Xherdan Shaqiri;1;20
+47;2;Assist;Djibril Sow;1;20
+47;3;Goal;Aleksandar Mitrović;1;26
+47;3;Assist;Dušan Tadić;1;26
+47;4;Yellow Card;Ruben Vargas;1;34
+47;5;Goal;Dušan Vlahović;1;35
+47;6;Goal;Breel Embolo;1;44
+47;6;Assist;Silvan Widmer;1;44
+47;7;Yellow Card;Sergej Milinković-Savić;2;47
+47;8;Goal;Remo Freuler;2;48
+47;8;Assist;Ruben Vargas;2;48
+47;9;Substitute;Miloš Veljković;2;55
+47;9;Entrance;Nemanja Gudelj;2;55
+47;10;Substitute;Dušan Vlahović;2;55
+47;10;Entrance;Luka Jović;2;55
+47;11;Yellow Card;Strahinja Pavlović;2;56
+47;12;Yellow Card;Predrag Rajković;2;66
+47;13;Substitute;Sergej Milinković-Savić;2;67
+47;13;Entrance;Nemanja Maksimović;2;67
+47;14;Substitute;Edimilson Fernandes;2;68
+47;14;Entrance;Djibril Sow;2;68
+47;15;Substitute;Xherdan Shaqiri;2;69
+47;15;Entrance;Denis Zakaria;2;69
+47;16;Substitute;Dušan Tadić;2;78
+47;16;Entrance;Filip Đuričić;2;78
+47;17;Substitute;Andrija Živković;2;78
+47;17;Entrance;Nemanja Radonjić;2;78
+47;18;Yellow Card;Nemanja Gudelj;2;81
+47;19;Yellow Card;Aleksandar Mitrović;2;82
+47;20;Substitute;Ruben Vargas;2;83
+47;20;Entrance;Christian Fassnacht;2;83
+47;21;Yellow Card;Granit Xhaka;2;95
+47;22;Yellow Card;Nikola Milenković;2;95
+47;23;Substitute;Breel Embolo;2;96
+47;23;Entrance;Noah Okafor;2;96
+47;24;Yellow Card;Fabian Schär;2;99
+48;1;Yellow Card;Nouhou Tolo;1;6
+48;2;Yellow Card;Éder Militão;1;7
+48;3;Yellow Card;Pierre Kunde;1;28
+48;4;Yellow Card;Collins Fai;1;33
+48;5;Substitute;Rodrygo;2;55
+48;5;Entrance;Everton Ribeiro;2;55
+48;6;Substitute;Alex Telles;2;55
+48;6;Entrance;Marquinhos;2;55
+48;7;Substitute;Fred;2;55
+48;7;Entrance;Bruno Guimarães;2;55
+48;8;Substitute;Gabriel Jesus;2;64
+48;8;Entrance;Pedro;2;64
+48;9;Substitute;Bryan Mbeumo;2;64
+48;9;Entrance;Karl Toko Ekambi;2;64
+48;10;Substitute;Pierre Kunde;2;66
+48;10;Entrance;Olivier Ntcham;2;66
+48;11;Substitute;Antony;2;79
+48;11;Entrance;Raphinha;2;79
+48;12;Yellow Card;Vincent Aboubakar;2;81
+48;13;Yellow Card;Bruno Guimarães;2;85
+48;14;Substitute;Moumi Ngamaleu;2;86
+48;14;Entrance;Jerome Ngom Mbekeli;2;86
+48;15;Goal;Vincent Aboubakar;2;92
+48;15;Assist;Andre-Frank Zambo Anguissa;2;92
+48;16;Red Card;Vincent Aboubakar;2;93
+49;1;Goal;Memphis Depay;1;10
+49;1;Assist;Denzel Dumfries;1;10
+49;2;Goal;Daley Blind;1;46
+49;2;Assist;Denzel Dumfries;1;46
+49;3;Substitute;Davy Klaassen;2;46
+49;3;Entrance;Teun Koopmeiners;2;46
+49;4;Substitute;Marten de Roon;2;46
+49;4;Entrance;Steven Bergwijn;2;46
+49;5;Substitute;Jesús Ferreira;2;46
+49;5;Entrance;Gio Reyna;2;46
+49;6;Yellow Card;Teun Koopmeiners;2;60
+49;7;Substitute;Timothy Weah;2;67
+49;7;Entrance;Brenden Aaronson;2;67
+49;8;Substitute;Weston McKennie;2;67
+49;8;Entrance;Haji Wright;2;67
+49;9;Substitute;Sergiño Dest;2;75
+49;9;Entrance;DeAndre Yedlin;2;75
+49;10;Goal;Haji Wright;2;76
+49;10;Assist;Christian Pulisic;2;76
+49;11;Goal;Denzel Dumfries;2;81
+49;11;Assist;Daley Blind;2;81
+49;12;Substitute;Memphis Depay;2;82
+49;12;Entrance;Xavi Simons;2;82
+49;13;Yellow Card;Frenkie de Jong;2;87
+49;14;Substitute;Antonee Robinson;2;92
+49;14;Entrance;Jordan Morris;2;92
+49;15;Substitute;Nathan Aké;2;93
+49;15;Entrance;Matthijs de Ligt;2;93
+49;16;Substitute;Cody Gakpo;2;94
+49;16;Entrance;Wout Weghorst;2;94
+50;1;Yellow Card;Jackson Irvine;1;15
+50;2;Goal;Lionel Messi;1;35
+50;2;Assist;Nicolás Otamendi;1;35
+50;3;Yellow Card;Miloš Degenek;1;38
+50;4;Substitute;Papu Gómez;2;50
+50;4;Entrance;Lisandro Martínez;2;50
+50;5;Goal;Julián Álvarez;2;57
+50;6;Substitute;Riley McGree;2;58
+50;6;Entrance;Craig Goodwin;2;58
+50;7;Substitute;Keanu Baccus;2;58
+50;7;Entrance;Ajdin Hrustic;2;58
+50;8;Substitute;Julián Álvarez;2;71
+50;8;Entrance;Lautaro Martínez;2;71
+50;9;Substitute;Marcos Acuña;2;72
+50;9;Entrance;Nicolás Tagliafico;2;72
+50;10;Substitute;Mitchell Duke;2;72
+50;10;Entrance;Jamie Maclaren;2;72
+50;11;Substitute;Miloš Degenek;2;72
+50;11;Entrance;Fran Karačić;2;72
+50;12;Substitute;Matthew Leckie;2;72
+50;12;Entrance;Garang Kuol;2;72
+50;13;Own Goal;Enzo Fernández;2;77
+50;14;Substitute;Nahuel Molina;2;80
+50;14;Entrance;Exequiel Palacios;2;80
+50;15;Substitute;Alexis Mac Allister;2;80
+50;15;Entrance;Gonzalo Montiel;2;80
+51;1;Yellow Card;Aurélien Tchouaméni;1;32
+51;2;Goal;Olivier Giroud;1;44
+51;2;Assist;Kylian Mbappé;1;44
+51;3;Yellow Card;Bartosz Bereszyński;2;47
+51;4;Substitute;Sebastian Szymański;2;64
+51;4;Entrance;Arkadiusz Milik;2;64
+51;5;Substitute;Aurélien Tchouaméni;2;66
+51;5;Entrance;Youssouf Fofana;2;66
+51;6;Substitute;Jakub Kamiński;2;71
+51;6;Entrance;Nicola Zalewski;2;71
+51;7;Substitute;Grzegorz Krychowiak;2;71
+51;7;Entrance;Krystian Bielik;2;71
+51;8;Goal;Kylian Mbappé;2;74
+51;8;Assist;Ousmane Dembélé;2;74
+51;9;Substitute;Ousmane Dembélé;2;76
+51;9;Entrance;Kingsley Coman;2;76
+51;10;Substitute;Olivier Giroud;2;76
+51;10;Entrance;Marcus Thuram;2;76
+51;11;Substitute;Jakub Kiwior;2;86
+51;11;Entrance;Jan Bednarek;2;86
+51;12;Substitute;Przemysław Frankowski;2;87
+51;12;Entrance;Kamil Grosicki;2;87
+51;13;Yellow Card;Matty Cash;2;88
+51;14;Goal;Kylian Mbappé;2;91
+51;14;Assist;Marcus Thuram;2;91
+51;15;Substitute;Jules Koundé;2;92
+51;15;Entrance;Axel Disasi;2;92
+51;16;Goal;Robert Lewandoski;2;99
+52;1;Goal;Jordan Henderson;1;39
+52;1;Assist;Jude Bellingham;1;39
+52;2;Goal;Harry Kane;1;48
+52;2;Assist;Phil Foden;1;48
+52;3;Substitute;Krépin Diatta;2;46
+52;3;Entrance;Pape Matar Sarr;2;46
+52;4;Substitute;Pathé Ciss;2;46
+52;4;Entrance;Pape Gueye;2;46
+52;5;Substitute;Iliman Ndiaye;2;46
+52;5;Entrance;Bamba Dieng;2;46
+52;6;Goal;Bukayo Saka;2;57
+52;6;Assist;Phil Foden;2;57
+52;7;Substitute;Phil Foden;2;65
+52;7;Entrance;Jack Grealish;2;65
+52;8;Substitute;Bukayo Saka;2;65
+52;8;Entrance;Marcus Rashford;2;65
+52;9;Substitute;Boulaye Dia;2;72
+52;9;Entrance;Famara Diedhiou;2;72
+52;10;Yellow Card;Kalidou Koulibaly;2;76
+52;11;Substitute;John Stones;2;76
+52;11;Entrance;Eric Dier;2;76
+52;12;Substitute;Jude Bellingham;2;77
+52;12;Entrance;Mason Mount;2;77
+52;13;Substitute;Jordan Henderson;2;82
+52;13;Entrance;Kalvin Phillips;2;82
+52;14;Substitute;Ismail Jakobs;2;84
+52;14;Entrance;Fodé Ballo-Touré;2;84
+53;1;Goal;Daizen Maeda;1;43
+53;1;Assist;Maya Yoshida;1;43
+53;2;Goal;Ivan Perišić;2;55
+53;2;Assist;Dejan Lovren;2;55
+53;3;Substitute;Bruno Petković;2;62
+53;3;Entrance;Ante Budimir;2;62
+53;4;Substitute;Daizen Maeda;2;64
+53;4;Entrance;Takuma Asano;2;64
+53;5;Substitute;Yuto Nagatomo;2;64
+53;5;Entrance;Kaoru Mitoma;2;64
+53;6;Substitute;Andrej Kramarić;2;68
+53;6;Entrance;Mario Pašalić;2;68
+53;7;Substitute;Daichi Kamada;2;75
+53;7;Entrance;Hiroki Sakai;2;75
+53;8;Substitute;Ritsu Doan;2;87
+53;8;Entrance;Takumi Minamino;3;87
+53;9;Yellow Card;Mateo Kovačić;3;90
+53;10;Substitute;Mateo Kovačić;3;99
+53;10;Entrance;Nikola Vlašić;3;99
+53;11;Substitute;Luka Modrić;3;99
+53;11;Entrance;Lovro Majer;3;99
+53;12;Substitute;Hidemasa Morita;3;106
+53;12;Entrance;Ao Tanaka;3;106
+53;13;Substitute;Ante Budimir;3;106
+53;13;Entrance;Marko Livaja;3;106
+53;14;Substitute;Ivan Perišić;3;106
+53;14;Entrance;Mislav Oršić;3;106
+53;15;Yellow Card;Borna Barišić;3;116
+53;16;Missed Penalty (PS);Takumi Minamino;4;120
+53;17;Scored Penalty (PS);Nikola Vlašić;4;120
+53;18;Missed Penalty (PS);Kaoru Mitoma;4;120
+53;19;Scored Penalty (PS);Marcelo Brozović;4;120
+53;20;Scored Penalty (PS);Takuma Asano;4;120
+53;21;Missed Penalty (PS);Marko Livaja;4;120
+53;22;Missed Penalty (PS);Maya Yoshida;4;120
+53;23;Scored Penalty (PS);Mario Pašalić;4;120
+54;1;Goal;Vinicius Júnior;1;7
+54;1;Assist;Raphinha;1;7
+54;2;Goal;Neymar;1;11
+54;3;Goal;Richarlison;1;29
+54;3;Assist;Thiago Silva;1;29
+54;4;Goal;Lucas Paquetá;1;36
+54;4;Assist;Vinicius Júnior;1;36
+54;5;Yellow Card;Jung Woo-young;1;44
+54;6;Substitute;Kim Jin-su;2;46
+54;6;Entrance;Hong Chul;2;46
+54;7;Substitute;Jung Woo-young;2;46
+54;7;Entrance;Son Jun-ho;2;46
+54;8;Substitute;Éder Militão;2;63
+54;8;Entrance;Dani Alves;2;63
+54;9;Substitute;Hwang In-beom;2;65
+54;9;Entrance;Paik Seung-ho;2;65
+54;10;Substitute;Danilo;2;72
+54;10;Entrance;Gleison Bremer;2;72
+54;11;Substitute;Vinicius Júnior;2;72
+54;11;Entrance;Martinelli;2;72
+54;12;Substitute;Lee Jae-sung;2;74
+54;12;Entrance;Lee Kangin;2;74
+54;13;Goal;Paik Seung-ho;2;76
+54;14;Substitute;Cho Guesung;2;80
+54;14;Entrance;Hwang Ui-jo;2;80
+54;15;Substitute;Alisson;2;80
+54;15;Entrance;Wéverton;2;80
+54;16;Substitute;Neymar;2;81
+54;16;Entrance;Rodrygo;2;81
+55;1;Substitute;Marco Asensio;2;63
+55;1;Entrance;Álvaro Morata;2;63
+55;2;Substitute;Gavi;2;63
+55;2;Entrance;Carlos Soler;2;63
+55;3;Substitute;Sofiane Boufal;2;66
+55;3;Entrance;Abdessamad Ezzalzouli;2;66
+55;4;Substitute;Ferrán Torres;2;75
+55;4;Entrance;Nico Williams;2;75
+55;5;Yellow Card;Aymeric Laporte;2;77
+55;6;Substitute;Selim Amallah;2;82
+55;6;Entrance;Walid Cheddira;2;82
+55;7;Substitute;Youssef En-Nesyri;2;82
+55;7;Entrance;Abdelhamid Sabiri;2;82
+55;8;Substitute;Noussair Mazraoui;2;82
+55;8;Entrance;Yahya Attiat Allah;2;82
+55;9;Substitute Injury;Nayef Aguerd;2;84
+55;9;Entrance;Jawad El Yamiq;2;84
+55;10;Yellow Card;Romain Saïss;2;90
+55;11;Substitute;Dani Olmo;3;98
+55;11;Entrance;Ansu Fati;3;98
+55;12;Substitute;Jordi Alba;3;98
+55;12;Entrance;Alejandro Balde;3;98
+55;13;Substitute;Nico Williams;3;118
+55;13;Entrance;Pablo Sarabia;3;118
+55;14;Substitute;Azzedine Ounahi;3;120
+55;14;Entrance;Badr Banoun;3;120
+55;15;Scored Penalty (PS);Abdelhamid Sabiri;4;120
+55;16;Missed Penalty (PS);Pablo Sarabia;4;120
+55;17;Scored Penalty (PS);Hakim Ziyech;4;120
+55;18;Missed Penalty (PS);Carlos Soler;4;120
+55;19;Missed Penalty (PS);Badr Banoun;4;120
+55;20;Missed Penalty (PS);Sergio Busquets;4;120
+55;21;Scored Penalty (PS);Achraf Hakimi;4;120
+56;1;Goal;Gonçalo Ramos;1;17
+56;1;Assist;João Félix;1;17
+56;2;Goal;Pepe;1;33
+56;2;Assist;Bruno Fernandes;1;33
+56;3;Yellow Card;Fabian Schär;1;43
+56;4;Substitute;Fabian Schär;2;46
+56;4;Entrance;Eray Cömert;2;46
+56;5;Goal;Gonçalo Ramos;2;51
+56;5;Assist;Diogo Dalot;2;51
+56;6;Substitute;Remo Freuler;2;54
+56;6;Entrance;Denis Zakaria;2;54
+56;6;Substitute;Djibril Sow;2;54
+56;6;Entrance;Haris Seferović;2;54
+56;7;Goal;Raphaël Guerreiro;2;55
+56;7;Assist;Gonçalo Ramos;2;55
+56;8;Goal;Manuel Akanji;2;58
+56;9;Yellow Card;Eray Cömert;2;59
+56;10;Substitute;Ruben Vargas;2;66
+56;10;Entrance;Noah Okafor;2;66
+56;11;Goal;Gonçalo Ramos;2;67
+56;11;Assist;João Félix;2;67
+56;12;Substitute;Gonçalo Ramos;2;73
+56;12;Entrance;Cristiano Ronaldo;2;73
+56;13;Substitute;João Félix;2;74
+56;13;Entrance;Ricardo Horta;2;74
+56;14;Substitute;Ótavio;2;74
+56;14;Entrance;Vitinha;2;74
+56;15;Substitute;Bernardo Silva;2;81
+56;15;Entrance;Rúben Neves;2;81
+56;16;Substitute;Bruno Fernandes;2;87
+56;16;Entrance;Rafael Leão;2;87
+56;17;Substitute;Breel Embolo;2;89
+56;17;Entrance;Ardon Jasari;2;89
+56;18;Goal;Rafael Leão;2;92
+56;18;Assist;Raphaël Guerreiro;2;92
+57;1;Yellow Card;Danilo;1;25
+57;2;Yellow Card;Marcelo Brozović;1;31
+57;3;Substitute;Raphinha;2;56
+57;3;Entrance;Antony;2;56
+57;4;Substitute;Vinicius Júnior;2;64
+57;4;Entrance;Rodrygo;2;64
+57;5;Yellow Card;Casemiro;2;68
+57;6;Substitute;Mario Pašalić;2;72
+57;6;Entrance;Nikola Vlašić;2;72
+57;7;Substitute;Andrej Kramarić;2;72
+57;7;Entrance;Bruno Petković;2;72
+57;8;Yellow Card;Marquinhos;2;77
+57;9;Substitute;Richarlison;2;84
+57;9;Entrance;Pedro;2;84
+57;10;Goal;Neymar;3;106
+57;10;Assist;Lucas Paquetá;3;106
+57;11;Substitute;Éder Militão;3;106
+57;11;Entrance;Alex Sandro;3;106
+57;12;Substitute;Mateo Kovačić;3;106
+57;12;Entrance;Lovro Majer;3;106
+57;13;Substitute;Lucas Paquetá;3;106
+57;13;Entrance;Fred;3;106
+57;14;Substitute;Borna Sosa;3;110
+57;14;Entrance;Ante Budimir;3;110
+57;15;Substitute;Marcelo Brozović;3;114
+57;15;Entrance;Mislav Oršić;3;114
+57;16;Goal;Bruno Petković;3;117
+57;16;Assist;Mislav Oršić;3;117
+57;17;Yellow Card;Bruno Petković;3;117
+57;18;Scored Penalty (PS);Nikola Vlašić;4;120
+57;19;Missed Penalty (PS);Rodrygo;4;120
+57;20;Scored Penalty (PS);Lovro Majer;4;120
+57;21;Scored Penalty (PS);Casemiro;4;120
+57;22;Scored Penalty (PS);Luka Modrić;4;120
+57;23;Scored Penalty (PS);Pedro;4;120
+57;24;Scored Penalty (PS);Mislav Oršić;4;120
+57;25;Missed Penalty (PS);Marquinhos;4;120
+58;1;Yellow Card;Walter Samuel;1;31
+58;2;Goal;Nahuel Molina;1;35
+58;2;Assist;Lionel Messi;1;35
+58;3;Yellow Card;Marcos Acuña;1;43
+58;4;Yellow Card;Jurriën Timber;1;43
+58;5;Yellow Card;Cristian Romero;1;45
+58;6;Yellow Card;Wout Weghorst;1;47
+58;7;Substitute;Steven Bergwijn;2;46
+58;7;Entrance;Steven Berghuis;2;46
+58;8;Substitute;Marten de Roon;2;46
+58;8;Entrance;Teun Koopmeiners;2;46
+58;9;Substitute;Daley Blind;2;64
+58;9;Entrance;Luuk de Jong;2;64
+58;10;Substitute;Rodrigo De Paul;2;66
+58;10;Entrance;Leandro Paredes;2;66
+58;11;Goal;Lionel Messi;2;73
+58;12;Yellow Card;Lisandro Martínez;2;75
+58;13;Yellow Card;Memphis Depay;2;75
+58;14;Substitute;Marcos Acuña;2;78
+58;14;Entrance;Nicolás Tagliafico;2;78
+58;15;Substitute;Cristian Romero;2;78
+58;15;Entrance;Germán Pezzella;2;78
+58;16;Substitute;Memphis Depay;2;78
+58;16;Entrance;Wout Weghorst;2;78
+58;17;Substitute;Julián Álvarez;2;82
+58;17;Entrance;Lautaro Martínez;2;82
+58;18;Goal;Wout Weghorst;2;83
+58;18;Assist;Steven Berghuis;2;83
+58;19;Yellow Card;Steven Berghuis;2;88
+58;20;Yellow Card;Leandro Paredes;2;89
+58;21;Yellow Card;Lionel Scaloni;2;90
+58;22;Yellow Card;Lionel Messi;2;100
+58;23;Goal;Wout Weghorst;2;101
+58;23;Assist;Teun Koopmeiners;2;101
+58;24;Yellow Card;Nicolás Otamendi;2;102
+58;25;Yellow Card;Steven Bergwijn;2;102
+58;26;Substitute;Nahuel Molina;3;106
+58;26;Entrance;Gonzalo Montiel;3;106
+58;27;Yellow Card;Gonzalo Montiel;3;109
+58;28;Substitute;Lisandro Martínez;3;112
+58;28;Entrance;Ángel Di María;3;112
+58;29;Yellow Card;Germán Pezzella;3;112
+58;30;Substitute;Cody Gakpo;3;113
+58;30;Entrance;Noa Lang;3;113
+58;31;Yellow Card;Noa Lang;3;122
+58;32;Yellow Card;Denzel Dumfries;3;122
+58;33;Red Card;Denzel Dumfries;3;123
+58;34;Missed Penalty (PS);Virgil Van Djik;4;120
+58;35;Scored Penalty (PS);Lionel Messi;4;120
+58;36;Missed Penalty (PS);Steven Berghuis;4;120
+58;37;Scored Penalty (PS);Leandro Paredes;4;120
+58;38;Scored Penalty (PS);Teun Koopmeiners;4;120
+58;39;Scored Penalty (PS);Gonzalo Montiel;4;120
+58;40;Scored Penalty (PS);Wout Weghorst;4;120
+58;41;Missed Penalty (PS);Enzo Fernández;4;120
+58;42;Scored Penalty (PS);Luuk de Jong;4;120
+58;43;Scored Penalty (PS);Lautaro Martínez;4;120
+59;1;Goal;Youssef En-Nesyri;1;42
+59;1;Assist;Yahya Attiat Allah;1;42
+59;2;Substitute;Raphaël Guerreiro;2;51
+59;2;Entrance;João Cancelo;2;51
+59;3;Substitute;Rúben Neves;2;51
+59;3;Entrance;Cristiano Ronaldo;2;51
+59;4;Substitute Injury;Romain Saïss;2;57
+59;4;Entrance;Achraf Dari;2;57
+59;5;Substitute;Selim Amallah;2;65
+59;5;Entrance;Walid Cheddira;2;65
+59;6;Substitute;Youssef En-Nesyri;2;65
+59;6;Entrance;Badr Banoun;2;65
+59;7;Substitute;Otávio;2;69
+59;7;Entrance;Vitinha;2;69
+59;8;Substitute;Gonçalo Ramos;2;69
+59;8;Entrance;Rafael Leão;2;69
+59;9;Yellow Card;Achraf Dari;2;70
+59;10;Substitute;Diogo Dalot;2;79
+59;10;Entrance;Ricardo Horta;2;79
+59;11;Substitute;Hakim Ziyech;2;81
+59;11;Entrance;Zakaria Aboukhal;2;81
+59;12;Substitute;Sofiane Boufal;2;82
+59;12;Entrance;Yahya Jabrane;2;82
+59;13;Yellow Card;Vitinha;2;87
+59;14;Yellow Card;Walid Cheddira;2;91
+59;15;Red Card;Walid Cheddira;2;93
+60;1;Goal;Aurélien Tchouaméni;1;17
+60;1;Assist;Antoine Griezmann;1;17
+60;2;Yellow Card;Antoine Griezmann;1;43
+60;3;Yellow Card;Ousmane Dembélé;2;47
+60;4;Goal;Harry Kane;2;54
+60;5;Goal;Olivier Giroud;2;78
+60;5;Assist;Antoine Griezmann;2;78
+60;6;Substitute;Ousmane Dembélé;2;79
+60;6;Entrance;Kingsley Coman;2;79
+60;7;Substitute;Bukayo Saka;2;79
+60;7;Entrance;Raheem Sterling;2;79
+60;8;Substitute;Jordan Henderson;2;79
+60;8;Entrance;Mason Mount;2;79
+60;9;Yellow Card;Theo Hernández;2;82
+60;10;Missed Penalty;Harry Kane;2;84
+60;11;Substitute;Phil Foden;2;85
+60;11;Entrance;Marcus Rashford;2;85
+60;12;Yellow Card;Harry Maguire;2;90
+60;13;Substitute Injury;John Stones;2;98
+60;13;Entrance;Jack Grealish;2;98
+61;1;Yellow Card;Mateo Kovačić;1;32
+61;2;Yellow Card;Dominik Livaković;1;32
+61;3;Goal;Lionel Messi;1;34
+61;4;Goal;Julián Álvarez;1;39
+61;5;Substitute;Borna Sosa;2;46
+61;5;Entrance;Mislav Oršić;2;46
+61;6;Substitute;Mario Pašalić;2;46
+61;6;Entrance;Nikola Vlašić;2;46
+61;7;Substitute;Marcelo Brozović;2;50
+61;7;Entrance;Bruno Petković;2;50
+61;8;Substitute;Leandro Paredes;2;62
+61;8;Entrance;Lisandro Martínez;2;62
+61;9;Yellow Card;Cristian Romero;2;68
+61;10;Goal;Lionel Messi;2;69
+61;10;Assist;Julián Álvarez;2;69
+61;11;Yellow Card;Nicolás Otamendi;2;71
+61;12;Substitute;Andrej Kramarić;2;72
+61;12;Entrance;Marko Livaja;2;72
+61;13;Substitute;Rodrigo De Paul;2;74
+61;13;Entrance;Exequiel Palacios;2;74
+61;14;Substitute;Julián Álvarez;2;74
+61;14;Entrance;Paulo Dybala;2;74
+61;15;Substitute;Luka Modrić;2;81
+61;15;Entrance;Lovro Majer;2;81
+61;16;Substitute;Alexis Mac Allister;2;86
+61;16;Entrance;Ángel Correa;2;86
+61;17;Substitute;Nahuel Molina;2;86
+61;17;Entrance;Juan Foyth;2;86
+62;1;Goal;Theo Hernández;1;5
+62;2;Substitute Injury;Romain Saïss;1;21
+62;2;Entrance;Selim Amallah;1;21
+62;3;Yellow Card;Sofiane Boufal;1;27
+62;4;Substitute;Noussair Mazraoui;2;46
+62;4;Entrance;Yahya Attiat Allah;2;46
+62;5;Substitute;Olivier Giroud;2;65
+62;5;Entrance;Marcus Thuram;2;65
+62;6;Substitute;Youssef En-Nesyri;2;66
+62;6;Entrance;Abderrazak Hamdallah;2;66
+62;7;Substitute;Sofiane Boufal;2;66
+62;7;Entrance;Zakaria Aboukhal;2;66
+62;8;Substitute;Selim Amallah;2;78
+62;8;Entrance;Abdessamad Ezzalzouli;2;78
+62;9;Substitute;Ousmane Dembélé;2;79
+62;9;Entrance;Randal Kolo Muani;2;79
+62;10;Goal;Randal Kolo Muani;2;79
+63;1;Goal;Joško Gvardiol;1;7
+63;1;Assist;Ivan Perišić;1;7
+63;2;Goal;Achraf Dari;1;9
+63;3;Goal;Mislav Oršić;1;42
+63;3;Assist;Marko Livaja;1;42
+63;4;Substitute;Abdelhamid Sabiri;2;46
+63;4;Entrance;Ilias Chair;2;46
+63;5;Substitute;Bilal El Khannous;2;56
+63;5;Entrance;Azzedine Ounahi;2;56
+63;6;Substitute Injury;Andrej Kramarić;2;61
+63;6;Entrance;Nikola Vlašić;2;61
+63;7;Substitute;Sofiane Boufal;2;64
+63;7;Entrance;Anass Zaroury;2;64
+63;8;Substitute;Achraf Dari;2;64
+63;8;Entrance;Badr Banoun;2;64
+63;9;Substitute;Jawad El Yamiq;2;66
+63;9;Entrance;Selim Amallah;2;66
+63;10;Substitute;Marko Livaja;2;66
+63;10;Entrance;Bruno Petković;2;66
+63;11;Substitute;Lovro Majer;2;66
+63;11;Entrance;Mario Pašalić;2;66
+63;12;Yellow Card;Azzedine Ounahi;2;69
+63;13;Yellow Card;Selim Amallah;2;84
+63;14;Substitute;Mislav Oršić;2;95
+63;14;Entrance;Kristijan Jakić;2;95
+64;1;Goal;Lionel Messi;1;23
+64;2;Goal;Ángel Di María;1;36
+64;2;Assist;Alexis Mac Allister;1;36
+64;3;Substitute;Ousmane Dembélé;1;41
+64;3;Entrance;Randal Kolo Muani;1;41
+64;4;Substitute;Olivier Giroud;1;41
+64;4;Entrance;Marcus Thuram;1;41
+64;5;Yellow Card;Enzo Fernández;1;52
+64;6;Yellow Card;Adrien Rabiot;2;55
+64;7;Substitute;Ángel Di María;2;64
+64;7;Entrance;Marcos Acuña;2;64
+64;8;Substitute;Theo Hernández;2;71
+64;8;Entrance;Eduardo Camavinga;2;71
+64;9;Substitute;Antoine Griezmann;2;71
+64;9;Entrance;Kingsley Coman;2;71
+64;10;Goal;Kylian Mbappé;2;80
+64;11;Goal;Kylian Mbappé;2;81
+64;11;Assist;Marcus Thuram;2;81
+64;12;Yellow Card;Marcus Thuram;2;87
+64;13;Yellow Card;Olivier Giroud;2;95
+64;14;Yellow Card;Marcos Acuña;2;98
+64;15;Substitute;Nahuel Molina;3;91
+64;15;Entrance;Gonzalo Montiel;3;91
+64;16;Substitute;Adrien Rabiot;3;96
+64;16;Entrance;Youssouf Fofana;3;96
+64;17;Substitute;Rodrigo De Paul;3;102
+64;17;Entrance;Leandro Paredes;3;102
+64;18;Substitute;Julián Álvarez;3;103
+64;18;Entrance;Lautaro Martínez;3;103
+64;19;Goal;Lionel Messi;3;108
+64;20;Substitute;Raphaël Varane;3;113
+64;20;Entrance;Ibrahima Konaté;3;113
+64;21;Yellow Card;Leandro Paredes;3;114
+64;22;Substitute;Alexis Mac Allister;3;116
+64;22;Entrance;Germán Pezzella;3;116
+64;23;Yellow Card;Gonzalo Montiel;3;116
+64;24;Goal;Kylian Mbappé;3;118
+64;25;Substitute;Nicolás Tagliafico;3;121
+64;25;Entrance;Paulo Dybala;3;121
+64;26;Substitute;Jules Koundé;3;121
+64;26;Entrance;Axel Disasi;3;121
+64;27;Yellow Card;Emiliano Martínez;3;124
+64;28;Scored Penalty (PS);Kylian Mbappé;4;120
+64;29;Scored Penalty (PS);Lionel Messi;4;120
+64;30;Missed Penalty (PS);Kingsley Coman;4;120
+64;31;Scored Penalty (PS);Paulo Dybala;4;120
+64;32;Missed Penalty (PS);Aurélien Tchouaméni;4;120
+64;33;Scored Penalty (PS);Leandro Paredes;4;120
+64;34;Scored Penalty (PS);Randal Kolo Muani;4;120
+64;35;Scored Penalty (PS);Gonzalo Montiel;4;120
