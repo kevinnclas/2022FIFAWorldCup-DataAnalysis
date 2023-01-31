@@ -14,7 +14,7 @@ With a total of 64 matches played across 8 venues in 5 cities, the 2022 World Cu
 
 This project focuses on analyzing the statistics and trends from the 2022 World Cup. The goal is to provide an understanding of the tournament thanks to data, including the performance of teams, player statistics, and other important metrics. 
 
-I tried to provide insights and findings that highlight the key trends and patterns from the tournament in an article. 
+I tried to provide insights and findings that highlight the key trends and patterns from the tournament in an article.  
 You can find the article [here](https://kevinnclas.github.io/articles/world-cup.html)
 
 Whether you're a fan of football or simply interested in data analysis, this project is for you!
