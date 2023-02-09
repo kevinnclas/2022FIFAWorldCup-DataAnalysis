@@ -18,3 +18,5 @@ I tried to provide insights and findings that highlight the key trends and patte
 You can find the article [here](https://kevinnclas.github.io/articles/world-cup.html).
 
 Whether you're a fan of football or simply interested in data analysis, do not hesitate to explore this project!
+
+I would like to warmly thank my friend <a href=https://github.com/ikhlo>Ikhlass YAYA-OYÉ</a> for his help on this project, it's always a pleasure to discuss about the challenges of a project and to manage to solve them with you!
